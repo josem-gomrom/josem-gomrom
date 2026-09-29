@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hola, soy José Manuel 👋
 
-<!--
-**josem-gomrom/josem-gomrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de Ingeniería Informática (3º año) apasionado por el desarrollo de software y aprendiendo a construir aplicaciones reales.
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologías y Herramientas
+- **Lenguajes:** Java, C++, Ruby
+- **En aprendizaje:** Bases de datos, control de versiones
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Proyectos Actuales
+- **Gestor de Gastos en Java:** Una aplicación de consola con persistencia de datos (En desarrollo).
+
+### 📫 Cómo contactarme
+- LinkedIn: [Tu enlace de LinkedIn]
