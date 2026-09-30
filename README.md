@@ -10,4 +10,4 @@ Soy estudiante de Ingeniería Informática (3º año) apasionado por el desarrol
 - **Gestor de Gastos en Java:** Una aplicación de consola con persistencia de datos (En desarrollo).
 
 ### 📫 Cómo contactarme
-- LinkedIn: [Tu enlace de LinkedIn]
+- LinkedIn: https://www.linkedin.com/in/jose-manuel-gomez-romero-8a967843b/
